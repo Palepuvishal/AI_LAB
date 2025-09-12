@@ -1,0 +1,14 @@
+Enter Location of Vacuum (A/B): A
+Enter status of A (0 for Clean, 1 for Dirty): 1
+Enter status of B (0 for Clean, 1 for Dirty): 0
+Initial Location Condition: {'A': '0', 'B': '0'}
+Vacuum is placed in Location A
+Location A is Dirty.
+Cost for CLEANING A: 1
+Location A has been Cleaned.
+Location B is already clean.
+No action, cost: 1
+
+GOAL STATE:
+{'A': '0', 'B': '0'}
+Performance Measurement (Total Cost): 1
